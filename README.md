@@ -21,9 +21,7 @@ matplotlib, seaborn
 Jupyter Notebook
 
 How to Run
-Download the dataset from Our World in Data
-
-Open the notebook: COVID19_Data_Analysis.ipynb
+Open the notebook: WEEK8PROJECT.ipynb
 
 Run all cells in order
 
@@ -32,4 +30,4 @@ Case and death trends differ by country
 
 Vaccination rollout varied across regions
 
-Death rates help highlight healthcare gaps
+Death rates
